@@ -22,8 +22,8 @@
       <file leaf-file-name="Lab2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lab2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="204" column="60" lean-forward="true" selection-start-line="204" selection-start-column="60" selection-end-line="204" selection-end-column="60" />
+            <state relative-caret-position="280">
+              <caret line="394" column="0" lean-forward="false" selection-start-line="394" selection-start-column="0" selection-end-line="394" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#processTest#0;class#Lab2#0" expanded="false" />
@@ -31,6 +31,7 @@
                 <element signature="method#createFirstTable#0;class#Lab2#0" expanded="false" />
                 <element signature="method#createSecondTable#0;class#Lab2#0" expanded="false" />
                 <element signature="method#createTherdTable#0;class#Lab2#0" expanded="false" />
+                <element signature="method#countR#0;class#Lab2#0" expanded="false" />
                 <element signature="method#endPoints#0;class#Lab2#0" expanded="false" />
                 <element signature="method#VSymmetry#0;class#Lab2#0" expanded="false" />
                 <element signature="method#checkZond#0;class#Lab2#0" expanded="false" />
@@ -688,12 +689,12 @@
       <updated>1511635085197</updated>
       <workItem from="1511635094244" duration="5373000" />
       <workItem from="1511692383002" duration="5517000" />
-      <workItem from="1511766443634" duration="11356000" />
+      <workItem from="1511766443634" duration="11517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22246000" />
+    <option name="totallyTimeSpent" value="22407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -789,6 +790,7 @@
             <element signature="method#createFirstTable#0;class#Lab2#0" expanded="false" />
             <element signature="method#createSecondTable#0;class#Lab2#0" expanded="false" />
             <element signature="method#createTherdTable#0;class#Lab2#0" expanded="false" />
+            <element signature="method#countR#0;class#Lab2#0" expanded="false" />
             <element signature="method#endPoints#0;class#Lab2#0" expanded="false" />
             <element signature="method#VSymmetry#0;class#Lab2#0" expanded="false" />
             <element signature="method#checkZond#0;class#Lab2#0" expanded="false" />
@@ -912,6 +914,7 @@
             <element signature="method#createFirstTable#0;class#Lab2#0" expanded="false" />
             <element signature="method#createSecondTable#0;class#Lab2#0" expanded="false" />
             <element signature="method#createTherdTable#0;class#Lab2#0" expanded="false" />
+            <element signature="method#countR#0;class#Lab2#0" expanded="false" />
             <element signature="method#endPoints#0;class#Lab2#0" expanded="false" />
             <element signature="method#VSymmetry#0;class#Lab2#0" expanded="false" />
             <element signature="method#checkZond#0;class#Lab2#0" expanded="false" />
@@ -1293,8 +1296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="204" column="60" lean-forward="true" selection-start-line="204" selection-start-column="60" selection-end-line="204" selection-end-column="60" />
+        <state relative-caret-position="280">
+          <caret line="394" column="0" lean-forward="false" selection-start-line="394" selection-start-column="0" selection-end-line="394" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#processTest#0;class#Lab2#0" expanded="false" />
@@ -1302,6 +1305,7 @@
             <element signature="method#createFirstTable#0;class#Lab2#0" expanded="false" />
             <element signature="method#createSecondTable#0;class#Lab2#0" expanded="false" />
             <element signature="method#createTherdTable#0;class#Lab2#0" expanded="false" />
+            <element signature="method#countR#0;class#Lab2#0" expanded="false" />
             <element signature="method#endPoints#0;class#Lab2#0" expanded="false" />
             <element signature="method#VSymmetry#0;class#Lab2#0" expanded="false" />
             <element signature="method#checkZond#0;class#Lab2#0" expanded="false" />
